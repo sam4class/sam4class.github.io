@@ -17,9 +17,9 @@ body{
 .exp-header{
   text-align: center;
   text-transform: uppercase;
-  width: 700px;
   border: 1px solid black;
   padding: 5px;
+  background-color: #FAEBD7
 }
 
 
