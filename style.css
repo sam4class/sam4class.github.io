@@ -1,1 +1,32 @@
+img{
+  width: 50%;
+  height: auto;
+  border-radius: 50%;
+}
 
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  
+}
+body{
+  background-color: Linen;
+  font-family:Arial Helvetica sans-serif;
+  margin: 10% 10%;
+}
+
+
+.exp-header{
+  text-align: center;
+  text-transform: uppercase;
+  width: 375px;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+
+em{
+  font-weight:bold;
+}
