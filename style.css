@@ -30,3 +30,8 @@ body{
 em{
   font-weight:bold;
 }
+
+.footer{
+  text-align: center;
+  text-transform: lowercase;
+}
