@@ -12,7 +12,7 @@ text-shadow: 2px 2px #80808080;
 }
 
 body{
-  background-image: linear-gradient(to right, #FAF0E6, #F0F8FF, #FAF0E6);
+  background-image: linear-gradient(to right, #FAF0E6, #F0F8FF);
   font-family:Arial Helvetica sans-serif;
   margin: 10% 10%;
 }
