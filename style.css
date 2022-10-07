@@ -31,6 +31,12 @@ em{
   font-weight:bold;
 }
 
+.bonus{
+  text-align: center
+  border-top: 1px solid #000000
+  border-bottom: 1px solid #000000
+}
+
 .footer{
   text-align: center;
   text-transform: lowercase;
